@@ -1,14 +1,5 @@
 ---
-name: User Story
-about: Template is used for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
+name: Use Story
 about: This template is for writing user stories
 title: ''
 labels: ''
